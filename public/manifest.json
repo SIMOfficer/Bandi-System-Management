@@ -1,0 +1,10 @@
+{
+  "name": "Griyo Suite",
+  "short_name": "Griyo Suite",
+  "description": "Quotation, invoice, tanda terima, dan keuangan terintegrasi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#171717",
+  "icons": []
+}
